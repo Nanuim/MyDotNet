@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/NIUElechi/.dotnet/store/|arch|/|tfm|",
+      "/Users/NIUElechi/.nuget/packages"
+    ]
+  }
+}
